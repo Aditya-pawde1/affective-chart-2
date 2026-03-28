@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful emotional visual metaphor of air pollution: a dense polluted city skyline covered in thick smog, the smoke rising into the sky slowly transforming into human skeletons and ghostly figures, symbolizing invisible deaths, dark atmosphere, cinematic lighting, highly detailed, dramatic composition, no text, no labels, no charts, no infographic, magazine cover style, haunting and symbolic. Negative: no graphs, no bar charts, no pie charts, no text, no numbers, no infographic, no labels",
+  "model": "DALL·E 3",
+  "dataset_name": "Air Pollution - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution silently kills millions every year, turning invisible air into a deadly force."
+}
